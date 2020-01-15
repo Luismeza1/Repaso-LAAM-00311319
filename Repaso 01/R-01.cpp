@@ -34,7 +34,7 @@ int main(void)
     char letter;
     int a = size + 3;
 
-    cout << "La palabra contiene 9 letras" << endl;
+    cout << "La palabra contiene " << size <<" Letras" << endl;
 
     do
     {
